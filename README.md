@@ -1,1 +1,1 @@
-# summitedgemedia
+# Summit Edge Media LLC
