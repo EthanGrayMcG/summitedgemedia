@@ -1448,7 +1448,7 @@ header.mega-elements  .fixed-menu.navbar-top-default .header-social a:hover {
     bottom: 2%;
     left: 54%;
     transform: translateX(-50%);
-    background-color: #d43030;
+    background-color: #AA7338;
 }
 
 .ui-block-02.about .about-heading .text-small{
@@ -1515,7 +1515,7 @@ header.mega-elements  .fixed-menu.navbar-top-default .header-social a:hover {
 }
 
 .ui-block-02.about a:hover {
-    color: #d43030;
+    color: #AA7338;
 }
 
 @-webkit-keyframes ripple {
@@ -1540,7 +1540,7 @@ header.mega-elements  .fixed-menu.navbar-top-default .header-social a:hover {
     }
 }
 
-.ui-block-02.about .text-red {color: #d43030;}
+.ui-block-02.about .text-red {color: #AA7338;}
 .ui-block-02.about a {color:inherit;text-decoration: none;}
 .ui-block-02.about .btn.btn-rounded {border-radius: 50px;}
 .ui-block-02.about .btn.btn-medium {font-size:16px; padding: 14px 46px; line-height: 1.8em}
@@ -2233,7 +2233,7 @@ header.mega-elements  .fixed-menu.navbar-top-default .header-social a:hover {
 }
 
 .ui-block-07.about-sec .sub-heading {
-    color: #d43030;
+    color: #AA7338;
     font-size: 16px;
 }
 
@@ -2313,7 +2313,7 @@ header.mega-elements  .fixed-menu.navbar-top-default .header-social a:hover {
 .ui-block-07.about-sec.bg-gray {background: #fbfbfb;}
 .ui-block-07.about-sec .btn.btn-rounded {border-radius: 50px;}
 .ui-block-07.about-sec .btn.btn-medium {font-size:16px; padding: 10px 42px; line-height: 2em}
-.ui-block-07.about-sec .btn.btn-red {background: #d43030; border-color: #d43030; color: #ffffff}
+.ui-block-07.about-sec .btn.btn-red {background: #AA7338; border-color: #AA7338; color: #ffffff}
 .ui-block-07.about-sec .btn.btn-red:hover {background: #fb4700 !important; border-color: #fb4700; color: #ffffff !important}
 .ui-block-07.about-sec .btn {-webkit-appearance: initial; overflow: hidden;position: -webkit-sticky;position: sticky; z-index: 1; display:inline-block; font-size: 16px; border:2px solid transparent; letter-spacing: .5px; line-height: inherit; border-radius: 0; width: auto;font-family: 'Roboto', sans-serif; font-weight: bold; -webkit-transition: all .5s ease;-o-transition: all .5s ease !important;transition: all .5s ease !important;}
 
@@ -3564,8 +3564,8 @@ header.mega-elements  .fixed-menu.navbar-top-default .header-social a:hover {
     transition: .5s ease;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-image: -webkit-gradient(linear, left top, right top, from(#ec3737), color-stop(50%, #ec3737), color-stop(50%, #000000));
-    background-image: linear-gradient(to right, #ec3737, #ec3737 50%, #000000 50%);
+    background-image: -webkit-gradient(linear, left top, right top, from(#D5C299), color-stop(50%, #D5C299), color-stop(50%, #000000));
+    background-image: linear-gradient(to right, #D5C299, #D5C299 50%, #000000 50%);
     background-size: 200% 100%;
     background-position: 100%;
 }
@@ -8640,7 +8640,7 @@ section.ui-block-25 {
     width: 750px;
     height: 520px;
     position: absolute;
-    background: #d43030;
+    background: #AA7338;
     top: 50%;
     left: 50%;
     transform: translate(-38%, -94%);
@@ -8680,8 +8680,8 @@ section.ui-block-25 {
     transition: .5s ease;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-image: -webkit-gradient(linear, left top, right top, from(#fec107), color-stop(50%, #fec107), color-stop(50%, #ffffff));
-    background-image: linear-gradient(to right, #fec107, #fec107 50%, #ffffff 50%);
+    background-image: -webkit-gradient(linear, left top, right top, from(#D5C299), color-stop(50%, #D5C299), color-stop(50%, #ffffff));
+    background-image: linear-gradient(to right, #D5C299, #D5C299 50%, #ffffff 50%);
     background-size: 200% 100%;
     background-position: 100%;
 }
@@ -11224,7 +11224,7 @@ section.ui-block-25 {
     font-size: 18px;
 }
 
-.ui-block-20.stats-sec .text-red {color: #d43030;}
+.ui-block-20.stats-sec .text-red {color: #AA7338;}
 .ui-block-20.stats-sec .text-orange {color: #fb4700;}
 .ui-block-20.stats-sec .text-black {color: #000000;}
 
@@ -14527,7 +14527,7 @@ section.ui-block-25 {
 
 .ui-block-07.pricing-sec .pricing-card.active:nth-child(2){
     box-shadow: 1px 1px 15px #e1e1e1;
-    background: #d43030;
+    background: #AA7338;
     border-radius: 0;
 }
 
@@ -14536,7 +14536,7 @@ section.ui-block-25 {
 }
 
 .ui-block-07.pricing-sec .text-red {
-    color: #d43030;
+    color: #AA7338;
 }
 
 .ui-block-07.pricing-sec .heading{
@@ -17337,7 +17337,7 @@ section.ui-block-25 {
 }
 
 .ui-block-08.blog .blog-box:hover {
-    background-color: #d43030;
+    background-color: #AA7338;
 }
 
 .ui-block-08.blog .blog-box .box-text{
@@ -17353,7 +17353,7 @@ section.ui-block-25 {
 
 .ui-block-08.blog .btn {-webkit-appearance: initial; overflow: hidden;position: -webkit-sticky;position: sticky; z-index: 1; display:inline-block; font-size: 16px; border:2px solid transparent; letter-spacing: .5px; line-height: inherit; border-radius: 0; width: auto;font-family: 'Roboto', sans-serif; font-weight: bold; -webkit-transition: all .5s ease;-o-transition: all .5s ease !important;transition: all .5s ease !important;}
 
-.ui-block-08.blog .btn.btn-red {background: #d43030; border-color: #d43030; color: #ffffff}
+.ui-block-08.blog .btn.btn-red {background: #AA7338; border-color: #AA7338; color: #ffffff}
 
 .ui-block-08.blog .btn.btn-red:hover {background: #fb4700 !important; border-color: #fb4700; color: #ffffff !important}
 
@@ -23649,7 +23649,7 @@ section.ui-block-25 {
 ==================================== */
 .ui-block-07.testimonial-section {
     padding: 120px 0;
-    background-color: #d43030;
+    background-color: #AA7338;
 }
 
 .ui-block-07.testimonial-section h2 {
@@ -29898,7 +29898,7 @@ section.main-page {position: relative; padding: 7.5rem 0; overflow: hidden;}
 }
 
 .ui-block-03 .project-sec .project-links-right a:hover i, .ui-block-03 .project-sec .project-links-left a:hover i{
-    color: #d43030;
+    color: #AA7338;
 }
 
 .ui-block-03 .project-sec .owl-item.active .project-area .project-detail .animate-fade{
@@ -30169,7 +30169,7 @@ section.main-page {position: relative; padding: 7.5rem 0; overflow: hidden;}
      UI-Block-05
 ==================================== */
 .ui-block-05.portfolio-section h5 {
-    color: #d43030;
+    color: #AA7338;
     font-size: 16px;
     font-weight: 500;
     text-align: center;
