@@ -496,7 +496,7 @@ header .navbar-brand img {
 ====================================== */
 
 .side-menu {
-    width: 100%;
+    width: 50%;
     position: fixed;
     left: 0;
     top: 0;
